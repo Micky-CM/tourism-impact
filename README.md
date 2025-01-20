@@ -1,6 +1,6 @@
 # Tourism Impact
 
-Este programa ayuda a entender el impacto que tiene el turismo en la economía. Para este fin, tiene por función realizar una gráfica de barras que muestra el histórico de los ingresos por turismo del país que tu quieras durante el periodo de 2010 a 2020.
+Este proyecto ayuda a entender el impacto que tiene el turismo en la economía de los países. Para este fin, tiene por función realizar una gráfica de barras que muestra el histórico de los ingresos por turismo del país que se ingrese por consola durante el periodo de 2010 a 2020.
 
 Para correr el programa debes seguir las siguientes instrucciones en la terminal:
 
